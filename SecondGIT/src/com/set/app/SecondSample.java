@@ -10,6 +10,8 @@ public class SecondSample {
 		System.out.println("Fifth");
 		//sixth commit
 		System.out.println("Sixth Commit");
+		
+		System.out.println("Seventh");
 
 	}
 
