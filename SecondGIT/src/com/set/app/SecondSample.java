@@ -6,6 +6,7 @@ public class SecondSample {
 		System.out.println("First commit");
 		
 		System.out.println("Second Commit");
+		System.out.println("");
 
 	}
 
